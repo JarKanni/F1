@@ -17,5 +17,5 @@ Lists details of the 2023 Formula 1 season.
 - [FastF1 docs](https://theoehrly.github.io/Fast-F1/)
 
 ## Contact Information
-**Name:** Jared R. Kannianen
+**Name:** Jared R. Kannianen  
 **Email:** jarkanni@gmail.com
