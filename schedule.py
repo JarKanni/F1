@@ -15,7 +15,9 @@ schedule_full['EventDate'] = schedule_full.EventDate + pd.DateOffset(hours = -11
 
 
 ## Main schedule ##
+# build schedule dataframe
 schedule = schedule_full[['EventDate','RoundNumber','EventName','Location']]
 schedule = schedule.set_index('RoundNumber')
 
-schedule
+
+schedule.head()
