@@ -1,5 +1,9 @@
-# F1 Season Schedule 2023
+#Formula 1 Data Analysis
+Collection of information and data analysis using Python
 
+---
+
+#F1 Season Schedule 2023
 ## Introduction
 Lists details of the 2023 Formula 1 season.
 
