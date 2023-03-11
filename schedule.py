@@ -26,4 +26,4 @@ schedule = sch[['Round', 'StartTime', 'Race','Location']]
 schedule = schedule.set_index('Round')
 
 
-schedule.head()
+print(schedule)
