@@ -14,16 +14,18 @@ Collection of information and data analysis using Python
 
 ## [F1 Season Schedule 2023](https://github.com/JarKanni/F1/blob/main/schedule.py)
 ## Introduction
-Lists details of the 2023 Formula 1 season.
+Lists details of the 2023 Formula 1 season in Central Standard Time.
 - Round
+- Start Time
 - Race
 - Location
-- Start Time
 
 ## Requirements
 **Packages used:**
 - [FastF1](https://github.com/theOehrly/Fast-F1)
 - pandas
+- pandas.tseries.offsets DateOffset
+- datetime
 
 ## References
 - [FastF1 docs](https://theoehrly.github.io/Fast-F1/)
